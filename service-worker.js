@@ -1,9 +1,11 @@
-const CACHE_NAME = "suchuebung-v2";
+const CACHE_NAME = "suchuebung-v3";
 
 const APP_FILES = [
   "/Suchuebung/",
   "/Suchuebung/index.html",
-  "/Suchuebung/startseite.png"
+  "/Suchuebung/startseite.png",
+  "/Suchuebung/assets/index-xaa2ddCw.js",
+  "/Suchuebung/assets/index-0M4Xp55o.css"
 ];
 
 self.addEventListener("install", (event) => {
